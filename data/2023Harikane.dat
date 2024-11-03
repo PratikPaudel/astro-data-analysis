@@ -1,0 +1,28 @@
+z log L(Ha) f_Edd f_Edd_lower_err f_Edd_upper_err E(B-V) FWHM(Ha) FWHM(Ha)_lower_err FWHM(Ha)_upper_err
+4.478 43.89  0.46  0.16  1.04  0.00 2228   52   75
+4.015 43.08  3.68  2.84 21.21  0.16 1028   13   19
+4.583 42.91  1.89  1.49  3.31  0.17 1429   67   10
+5.624 44.83  1.47  0.52  0.60  1.38 1660  162  157
+4.483 43.83  1.93  1.59  4.61  0.42 1794  171  282
+5.666 44.26  0.65  0.33  0.31  0.80 2208  241  277
+5.241 43.88  0.51  0.32  0.71  0.28 2534  266  260
+6.000 43.41  2.02  1.80 20.68  0.19 1739  317  359
+
+
+convert from halpha --> convert into bolometric luminosity. 
+conversion from line to boolmic luminosity --> 
+
+how do we convert from slope into the extinction value. 
+
+the sepctra of galxay and black holes. 
+
+so finding that calibaration --> we might try plotting all the data.
+Quazarz they should follow the same extinction if they have the same slope but for galaxy that's not the case. 
+
+we need to cut the data to determine which ones to use --> remove the weak emissions. the other areas is the 
+extinction values. Can we use the slopes. 
+
+
+the slope corresponds to the extinction
+
+
